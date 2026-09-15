@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    padding: 2rem 1rem;
+    color: #333;
+}
+
+.contenedor {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    color: #666;
+}
+
+/* Rejilla de rectángulos */
+.lista-ejercicios {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+/* Estilo rectangular básico */
+.lista-ejercicios a {
+    display: block;
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+
+.lista-ejercicios a:hover {
+    border-color: #000;
+}
