@@ -26,12 +26,13 @@ En este repositorio he ido construyendo mi aprendizaje de Desarrollo Web paso a 
 * **Ejercicio 3:** Agregué enlaces simples para poder navegar entre mis diferentes prácticas y hacia sitios web externos.
 * **Ejercicio 4:** Inserté imágenes en mi página web configurando correctamente sus rutas, dimensiones y textos alternativos.
 * **Ejercicio 5:** Integré los conocimientos anteriores creando una página de blog personal que combina texto estructurado, una foto y enlaces.
-* **Ejercicio 6:** Organicé el contenido de mi página usando etiquetas semánticas de HTML5, incluyendo cabeceras, secciones y un pie de página[cite: 4].
-* **Ejercicio 7:** Estructuré los ingredientes y pasos de una receta de tacos al pastor utilizando listas ordenadas y desordenadas anidadas[cite: 5].
-* **Ejercicio 8:** Diseñé mi horario de clases creando una tabla de datos completa (`<thead>`, `<tbody>`) y dándole todo el diseño visual con CSS[cite: 5].
-* **Ejercicio 9:** Construí un formulario de contacto con diferentes tipos de campos de entrada y le apliqué un diseño profesional usando variables de CSS[cite: 2].
-* **Ejercicio 10:** Desarrollé una pequeña calculadora interactiva con JavaScript que captura un valor y convierte grados Celsius a Fahrenheit al presionar un botón[cite: 3].
+* **Ejercicio 6:** Organicé el contenido de mi página usando etiquetas semánticas de HTML5, incluyendo cabeceras, secciones y un pie de página.
+* **Ejercicio 7:** Estructuré los ingredientes y pasos de una receta de tacos al pastor utilizando listas ordenadas y desordenadas anidadas.
+* **Ejercicio 8:** Diseñé mi horario de clases creando una tabla de datos completa (`<thead>`, `<tbody>`) y dándole todo el diseño visual con CSS.
+* **Ejercicio 9:** Construí un formulario de contacto con diferentes tipos de campos de entrada y le apliqué un diseño profesional usando variables de CSS.
+* **Ejercicio 10:** Desarrollé una pequeña calculadora interactiva con JavaScript que captura un valor y convierte grados Celsius a Fahrenheit al presionar un botón.
 
 ## 🔗 Enlaces del Proyecto
-*   **Repositorio (Código):** [https://github.com/Uriel-tech302/Actividad_1_Programacion-Web]
-*   **Página Publicada (GitHub Pages):** [https://uriel-tech302.github.io/Actividad_1_Programacion-Web/]
+*   **Repositorio (Código):** [https://github.com/Uriel-tech302/Programacion_web_XAMMP
+]
+*   **Página Publicada (GitHub Pages):** [https://uriel-tech302.github.io/Programacion_web_XAMMP/]
