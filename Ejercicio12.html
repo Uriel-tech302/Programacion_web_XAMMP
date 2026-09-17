@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Divisas</title>
+    <link rel="stylesheet" href="css/Ejercicio12.css">
+</head>
+<body>
+    <div class="contenedor-calculadora">
+        <h2>Convertidor MXN a USD</h2>
+        
+        <div class="grupo-input">
+            <label for="mxnInput">Pesos Mexicanos (MXN):</label>
+            <input type="number" id="mxnInput" placeholder="Ej. 500" step="any">
+        </div>
+
+        <button id="btnConvertir">Convertir</button>
+
+        <div class="grupo-input">
+            <label for="usdOutput">Dólares (USD):</label>
+            <input type="text" id="usdOutput" readonly placeholder="0.00">
+        </div>
+
+        <p id="mensajeError" class="mensaje-error"></p>
+    </div>
+
+    <script src="js/Ejercicio12.js"></script>
+</body>
+</html>
